@@ -16,7 +16,10 @@ I'm a senior at the University of Notre Dame, studying biology and data science.
 - 🏆 Fun fact: I am recently an intramural soccer champ!
 
 ## Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=py,anaconda,vscode,ai)](https://skillicons.dev)
+![Skills](https://skillicons.dev/icons?i=py,anaconda,vscode,ai)
+
+## Projects
+- [Data Science Portfolio](https://github.com/qfshannon/Shannon-Data-Science-Portfolio)
 
 ## Let's Connect
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/quinn-shannon-b151a32a8/)
