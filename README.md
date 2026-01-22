@@ -16,3 +16,7 @@ I'm a senior at the University of Notre Dame, studying biology and data science.
 
 ## Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,vscode,ai)](https://skillicons.dev)
+
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/quinn-shannon-b151a32a8/)
+- [Gmail](qshannon@nd.edu)
