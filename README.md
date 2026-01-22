@@ -1,4 +1,4 @@
-<img src="https://law.nd.edu/assets/219780/1000x/nd_campus_skyline_sunrise.jpg" width="100%" height="400px" style="object-fit: cover;">
+<img src="https://law.nd.edu/assets/219780/1000x/nd_campus_skyline_sunrise.jpg" width="100%" height="360px" style="object-fit: cover;">
 
 # Hi, I'm Quinn! 👋
 
