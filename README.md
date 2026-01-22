@@ -3,7 +3,7 @@
 
 # Hi, I'm Quinn! 👋
 
-I'm a senior at the University of Notre Dame, studying biology and data science.
+I'm a senior at the **University of Notre Dame**, studying **biology and data science**. I'm curious about the intersection of data and health, and I enjoy exploring this relationship both technically and ethically. This profile showcases my **programming progression** and **data literacy** through ongoing data science projects.
 
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
