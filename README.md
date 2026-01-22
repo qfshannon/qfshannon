@@ -17,6 +17,7 @@ I'm a senior at the University of Notre Dame, studying biology and data science.
 
 ## Currently Learning
 ![Skills](https://skillicons.dev/icons?i=py,anaconda,vscode,ai)
+<img src="assets/spss.png" width="48" height="48">
 
 ## Projects
 - [Data Science Portfolio](https://github.com/qfshannon/Shannon-Data-Science-Portfolio)
