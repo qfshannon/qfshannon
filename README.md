@@ -19,4 +19,4 @@ I'm a senior at the University of Notre Dame, studying biology and data science.
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/quinn-shannon-b151a32a8/)
-- [Gmail](qshannon@nd.edu)
+- [Gmail](mailto:qshannon@nd.edu)
