@@ -20,7 +20,7 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
 <img src="assets/spss.png" width="48" height="48">
 
 ## Projects
-- [Data Science Portfolio](https://github.com/qfshannon/Shannon-Data-Science-Portfolio)
+[Data Science Portfolio](https://github.com/qfshannon/Shannon-Data-Science-Portfolio)
 
 ## Let's Connect
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:qshannon@nd.edu)
