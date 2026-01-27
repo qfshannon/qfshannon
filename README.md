@@ -23,5 +23,5 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
 - [Data Science Portfolio](https://github.com/qfshannon/Shannon-Data-Science-Portfolio)
 
 ## Let's Connect
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:qshannon@nd.edu)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/quinn-shannon-b151a32a8/)
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:qshannon@nd.edu)
