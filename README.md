@@ -3,7 +3,7 @@
 
 # Hi, I'm Quinn! 👋
 
-I'm a senior at the **University of Notre Dame**, studying **biology and data science**. I'm curious about the intersection of data and health, and I enjoy exploring this relationship both technically and ethically. This profile showcases my **programming progression** and **data literacy** through ongoing data science projects.
+I'm a senior at the **University of Notre Dame**, studying **biology and data science**. I'm curious about the intersection of data and health, and I enjoy exploring this relationship technically and ethically. This profile showcases my **programming progression** and **data literacy** through ongoing data science projects.
 
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
@@ -15,13 +15,16 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
 - ☀️ In my free time, I love to read and spend time outdoors
 - 🏆 Fun fact: I am recently an intramural soccer champ!
 
-## Currently Learning
-![Skills](https://skillicons.dev/icons?i=py,anaconda,vscode,ai)
-<img src="assets/spss.png" width="48" height="48">
+## Skills I'm Learning
+<img src="assets/python.png" width="48" height="48"> <img src="assets/conda.png" width="48" height="48"> <img src="assets/vscode.png" width="48" height="48"> <img src="assets/streamlit.png" width="48" height="48"> <img src="assets/spss.png" width="48" height="48">
 
 ## Projects
 [Data Science Portfolio](https://github.com/qfshannon/Shannon-Data-Science-Portfolio)
 
+## Goals
+- By the time I graduate, I will have a strong foundation in data science. I will improve my coding proficiency and presentation skills by completing projects that effectively analyze and communicate data.
+- I hope to gain experience with data methods that I can someday apply in the fields of medicine and public health.
+
 ## Let's Connect
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:qshannon@nd.edu)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/quinn-shannon-b151a32a8/)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:qshannon@nd.edu)
