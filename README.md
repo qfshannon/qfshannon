@@ -22,8 +22,8 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
 [Data Science Portfolio](https://github.com/qfshannon/Shannon-Data-Science-Portfolio)
 
 ## Goals
-- By the time I graduate, I will have a strong foundation in data science. I will improve my coding proficiency and presentation skills by completing projects that effectively analyze and communicate data.
-- I hope to gain experience with data methods that I can someday apply in the fields of medicine and public health.
+- I aspire to develop a **strong foundation in data science**; I will achieve this growth by completing projects that test my **data analysis and communication** skills.
+- I hope to gain **experience with data methods** that I can apply to medicine and public health.
 
 ## Let's Connect
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/quinn-shannon-b151a32a8/)
