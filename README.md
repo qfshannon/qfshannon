@@ -1,4 +1,4 @@
-![Notre Dame Campus Skyline)](assets/nd_campus_skyline.jpeg)
+![Notre Dame Campus Skyline](assets/nd_campus_skyline.jpeg)
 
 
 # Hi, I'm Quinn! 👋
