@@ -20,6 +20,8 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
 
 ## Projects
 [Data Science Portfolio](https://github.com/qfshannon/Shannon-Data-Science-Portfolio)
+- [Project #1](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/basic_streamlit_app): Design an interactive Streamlit app to display a dataset
+- [Project #2](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/TidyData-Project): Create a Jupyter notebook, and apply data cleaning and tidy data principles to a messy dataset
 
 ## Goals
 - I aspire to develop a **strong foundation in data science**; I will achieve this growth by completing projects that test my **data analysis and communication** skills.
