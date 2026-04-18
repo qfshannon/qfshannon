@@ -21,8 +21,8 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
 ## Projects
 [Data Science Portfolio](https://github.com/qfshannon/Shannon-Data-Science-Portfolio)
 - **Project #1:** Design an interactive Streamlit app to display a dataset. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/basic_streamlit_app).
-- **Project #2:** Create a Jupyter notebook, and apply data cleaning and tidy data principles to a messy dataset. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/TidyData-Project)
-- **Projet #3:** Create an interactive app that allows users to explore how different parameters influence K-Nearest Neoghbors model perfomance on a dataset of their choosing. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/MLStreamlitApp)
+- **Project #2:** Create a Jupyter notebook, and apply data cleaning and tidy data principles to a messy dataset. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/TidyData-Project).
+- **Projet #3:** Create an interactive app that allows users to explore how different parameters influence K-Nearest Neoghbors model perfomance on a dataset of their choosing. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/MLStreamlitApp).
 
 ## Goals
 - I aspire to develop a **strong foundation in data science**; I will achieve this growth by completing projects that test my **data analysis and communication** skills.
