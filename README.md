@@ -13,7 +13,7 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
 ## Interests
 - 🩺 I'm interested in public health and medicine
 - ☀️ In my free time, I love to read and spend time outdoors
-- 🏆 Fun fact: I am recently an intramural soccer champ!
+- 🏆 Fun fact: I am recently an intramural soccer champion!
 
 ## Goals
 - I aspire to develop a **strong foundation in data science** through completing projects that test my **data and communication** skills.
