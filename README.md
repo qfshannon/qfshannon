@@ -23,7 +23,8 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
 <img src="assets/python.png" width="48" height="48"> <img src="assets/conda.png" width="48" height="48"> <img src="assets/vscode.png" width="48" height="48"> <img src="assets/streamlit.png" width="48" height="48"> <img src="assets/spss.png" width="48" height="48">
 
 ## Projects at a Glance
-[Data Science Portfolio](https://github.com/qfshannon/Shannon-Data-Science-Portfolio)
+Access my [Data Science Portfolio](https://github.com/qfshannon/Shannon-Data-Science-Portfolio), which contains each of the following projects.
+
 **Project #1: Interactive Streamlit App**
 - Design an interactive Streamlit app to display a dataset. This app showcases my progress with python coding and interactive app development.
 - Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/basic_streamlit_app).
