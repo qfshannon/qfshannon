@@ -28,20 +28,20 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
 - **Project #2:** Create a Jupyter notebook, and apply data cleaning and tidy data principles to a messy dataset. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/TidyData-Project).
 
 <p align="center">
-  <img src="./assets/Project2_1.png" alt="WHR Data" width="400">
+  <img src="./assets/Project2_1.png" alt="Tidy Data" width="400">
 <p/>
 <p align="center">
-  <img src="./assets/Project2_2.png" alt="WHR Data" width="400">
+  <img src="./assets/Project2_2.png" alt="Tidy Data" width="400">
 <p/>
   
 - **Project #3:** Create an interactive app that allows users to explore how different parameters influence K-Nearest Neighbors supervised machine learning model perfomance on a dataset of their choosing. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/MLStreamlitApp).
 <p align="center">
-  <img src="./assets/Project3.png" alt="WHR Data" width="400">
+  <img src="./assets/Project3.png" alt="Supervised ML App" width="400">
 <p/>
 
-- **Project #4:** Create an interactive app that allows users to explore how different parameters influence K-Means Clustering unsupervised machine learning model perfomance on a dataset of their choosing. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/MLStreamlitApp).
+- **Project #4:** Create an interactive app that allows users to explore how different parameters influence K-Means Clustering unsupervised machine learning model perfomance on a dataset of their choosing. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/MLUnsupervisedApp).
 <p align="center">
-  <img src="./assets/Project3.png" alt="WHR Data" width="400">
+  <img src="./assets/Project4.png" alt="Unsupervised ML App" width="400">
 <p/>
 
 ## Goals
