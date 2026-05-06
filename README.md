@@ -28,7 +28,7 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
 <p/>
 
 **Project #2: Tidy Data**
-- Create a Jupyter notebook, and apply data cleaning and tidy data principles to a messy dataset. This app demonstrates my skills with cleaning, organizing, and processing raw data.
+- Create a Jupyter notebook, and apply data cleaning and tidy data principles to a messy dataset. This project highlights my skills with cleaning, organizing, and processing raw data.
 - Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/TidyData-Project).
 
 <p align="center">
