@@ -20,12 +20,12 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
 
 ## Projects at a Glance
 [Data Science Portfolio](https://github.com/qfshannon/Shannon-Data-Science-Portfolio)
-- **Project #1:** Design an interactive Streamlit app to display a dataset. This app showcases my progress with python coding and interactive app development. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/basic_streamlit_app).
+- **Project #1: Interactive Streamlit App** Design an interactive Streamlit app to display a dataset. This app showcases my progress with python coding and interactive app development. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/basic_streamlit_app).
 <p align="center">
 <img src="./assets/Project1.png" alt="WHR Data" width="400">
 <p/>
 
-- **Project #2:** Create a Jupyter notebook, and apply data cleaning and tidy data principles to a messy dataset. This app demonstrates my skills with cleaning, organizing, and processing raw data. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/TidyData-Project).
+- **Project #2: Tidy Data** Create a Jupyter notebook, and apply data cleaning and tidy data principles to a messy dataset. This app demonstrates my skills with cleaning, organizing, and processing raw data. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/TidyData-Project).
 
 <p align="center">
   <img src="./assets/Project2_1.png" alt="Tidy Data" width="400">
@@ -34,12 +34,12 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
   <img src="./assets/Project2_2.png" alt="Tidy Data" width="400">
 <p/>
   
-- **Project #3:** Create an interactive app that allows users to explore how different parameters influence K-Nearest Neighbors supervised machine learning model perfomance on a dataset of their choosing. This app demonstrates my skills with interactive Python development and supervised model deployment. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/MLStreamlitApp).
+- **Project #3: Supervised Machine Learning App** Create an interactive app that allows users to explore how different parameters influence K-Nearest Neighbors supervised machine learning model perfomance on a dataset of their choosing. This app demonstrates my skills with interactive Python development and supervised model deployment. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/MLStreamlitApp).
 <p align="center">
   <img src="./assets/Project3.png" alt="Supervised ML App" width="400">
 <p/>
 
-- **Project #4:** Create an interactive app that allows users to explore how different parameters influence K-Means Clustering unsupervised machine learning model perfomance on a dataset of their choosing. This app demonstrates my skills with interactive Python development and unsupervised model deployment. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/MLUnsupervisedApp).
+- **Project #4: Unsupervised Machine Learning App** Create an interactive app that allows users to explore how different parameters influence K-Means Clustering unsupervised machine learning model perfomance on a dataset of their choosing. This app demonstrates my skills with interactive Python development and unsupervised model deployment. Access the project using [this link](https://github.com/qfshannon/Shannon-Data-Science-Portfolio/tree/main/MLUnsupervisedApp).
 <p align="center">
   <img src="./assets/Project4.png" alt="Unsupervised ML App" width="400">
 <p/>
