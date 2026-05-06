@@ -15,6 +15,10 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
 - ☀️ In my free time, I love to read and spend time outdoors
 - 🏆 Fun fact: I am recently an intramural soccer champ!
 
+## Goals
+- I aspire to develop a **strong foundation in data science** through completing projects that test my **data and communication** skills.
+- I hope to gain **experience with data methods** that I can apply long-term in the realms of data science and public health.
+
 ## Skills I'm Learning
 <img src="assets/python.png" width="48" height="48"> <img src="assets/conda.png" width="48" height="48"> <img src="assets/vscode.png" width="48" height="48"> <img src="assets/streamlit.png" width="48" height="48"> <img src="assets/spss.png" width="48" height="48">
 
@@ -51,10 +55,6 @@ I'm a senior at the **University of Notre Dame**, studying **biology and data sc
 <p align="center">
   <img src="./assets/Project4.png" alt="Unsupervised ML App" width="400">
 <p/>
-
-## Goals
-- I aspire to develop a **strong foundation in data science**; I will achieve this growth by completing projects that test my **data analysis and communication** skills.
-- I hope to gain **experience with data methods** that I can apply to medicine and public health.
 
 ## Let's Connect
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/quinn-shannon-b151a32a8/)
